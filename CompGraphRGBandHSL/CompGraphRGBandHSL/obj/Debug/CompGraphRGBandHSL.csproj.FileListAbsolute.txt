@@ -1,0 +1,7 @@
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\bin\Debug\CompGraphRGBandHSL.exe.config
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\bin\Debug\CompGraphRGBandHSL.exe
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\bin\Debug\CompGraphRGBandHSL.pdb
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\obj\Debug\CompGraphRGBandHSL.csproj.AssemblyReference.cache
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\obj\Debug\CompGraphRGBandHSL.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\obj\Debug\CompGraphRGBandHSL.exe
+C:\Users\Kenan\source\repos\CompGraphRGBandHSL\CompGraphRGBandHSL\obj\Debug\CompGraphRGBandHSL.pdb
